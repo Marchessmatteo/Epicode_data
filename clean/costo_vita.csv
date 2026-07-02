@@ -1,0 +1,29 @@
+comune,macroarea,spesa_mensile,km_da_roma,collegamento_treno,costo_trasporti,fonte,anno
+Mentana,Sabina Romana,2918,25,False,198,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Monterotondo,Sabina Romana,2918,30,True,39,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Montelibretti,Sabina Romana,2918,35,True,118,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Nerola,Sabina Romana,2918,40,True,127,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Moricone,Sabina Romana,2918,40,False,317,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Palombara Sabina,Sabina Romana,2918,45,True,118,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Monteflavio,Sabina Romana,2918,50,False,396,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Montorio Romano,Sabina Romana,2918,45,False,356,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+San Polo Dei Cavalieri,Sabina Romana,2918,45,False,356,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Fara In Sabina,Bassa Sabina,2736,50,True,48,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Poggio Mirteto,Bassa Sabina,2736,55,True,48,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Magliano Sabina,Bassa Sabina,2736,70,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Casperia,Bassa Sabina,2736,60,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Montopoli Di Sabina,Bassa Sabina,2736,55,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Torri In Sabina,Bassa Sabina,2736,60,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Cantalupo In Sabina,Bassa Sabina,2736,55,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Poggio Nativo,Bassa Sabina,2736,50,True,167,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Toffia,Bassa Sabina,2736,50,True,167,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Frasso Sabino,Bassa Sabina,2736,55,True,167,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Forano,Bassa Sabina,2736,60,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Stimigliano,Bassa Sabina,2736,65,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Tarano,Bassa Sabina,2736,65,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Selci,Bassa Sabina,2736,65,True,175,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Poggio Moiano,Bassa Sabina,2736,55,True,167,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Scandriglia,Bassa Sabina,2736,50,True,167,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Roma,Roma Centro,3101,0,True,35,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Roma,Roma Semicentro,3101,0,True,35,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
+Roma,Roma Periferia,2918,0,True,35,ISTAT 2023 aggiornato inflazione +4.2% al 2026,2026
